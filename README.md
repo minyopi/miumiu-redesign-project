@@ -9,4 +9,5 @@
            모바일 (320px-768px) / 태블릿 (769px-1199px) / 데스크탑 (1200px-1920px)으로 작업.
 * 진행 상황: 모바일, 데스크탑 버전 완성. 태블릿 버전 미완성.
 * 이미지
+** 데스크톱
 ![index page image](https://user-images.githubusercontent.com/76836967/128455552-43eeb454-334d-4957-a9a2-1e668f126a43.png)
